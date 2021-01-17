@@ -1,5 +1,5 @@
 # Convolution Reverb UE4
-*"Simulation of Physical Space Reverberation using Convolution Reverb in Unreal Engine" Dissertation Files*
+*"Simulation of Physical Space Acoustics using Convolution Reverb in Unreal Engine" Dissertation Files*
 
 ### DAE_Demo_Source
 
